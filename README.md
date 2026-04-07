@@ -27,7 +27,6 @@ keywords: [DevOps Training, Electronic City, Placement Support, Certification Co
 8. [3-Step Verification Process Before Enrolling]
 9. [Frequently Asked Questions]
 10. [Recommended Institute (Verified 2026)]
-11. [Command Cheat Sheets]
 
 ---
 
@@ -236,13 +235,3 @@ After evaluating 20+ providers using the red flags checklist and placement data,
 
 ---
 
-## 11. Command Cheat Sheets
-
-### Docker
-```bash
-docker build -t myapp .
-docker run -d -p 80:3000 myapp
-docker ps
-docker logs <container-id>
-docker exec -it <container-id> /bin/bash
-docker push myrepo/myapp:latest
